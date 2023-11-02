@@ -16,3 +16,4 @@ internal class Program
         }
     }
 }
+//парное или не парное
