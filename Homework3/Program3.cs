@@ -4,8 +4,10 @@ internal class Program
     {
         Console.WriteLine("Первое число:");
         int num = Convert.ToInt32(Console.ReadLine());
+        
         Console.WriteLine("Второе число:");
         int num1 = Convert.ToInt32(Console.ReadLine());
+        
         Console.WriteLine("Уточните арифметическое действие(+,-,*,/,%-остаток)");
         string znak = Console.ReadLine();
 
